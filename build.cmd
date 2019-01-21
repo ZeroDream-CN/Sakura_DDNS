@@ -83,4 +83,4 @@ set GOOS=darwin
 set GOARCH=386
 go build -o=SakuraDDNS_darwin_386
 
-echo Build complated.
+echo Build completed.
